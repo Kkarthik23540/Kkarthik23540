@@ -41,7 +41,7 @@
 │  Degree       : B.Tech in Computer Science and Engineering             │
 │  College      : Jaya Prakash Narayan College of Engineering — JNTUH    │
 │  Graduation   : Class of 2025  •  CGPA: 7.82 / 10.0                    │
-│  Focus Areas  : Web Engineering, Android, Flutter & Applied ML        │
+│  Focus Areas  : Web Engineering, Android, Flutter & Applied ML         │
 │  Availability : Actively seeking software developer opportunities      │
 └────────────────────────────────────────────────────────────────────────┘
 ```
