@@ -1,16 +1,16 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f172a,50:0d9488,100:0284c7&height=180&section=header&text=K%20Karthik%20Reddy&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=B.Tech%20CSE%20Graduate%202025&descAlignY=66&descSize=20&animation=fadeIn" width="100%" alt="K Karthik Reddy Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:6366f1,100:06b6d4&height=220&section=header&text=K%20Karthik%20Reddy&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=B.Tech%20CSE%20Graduate%202025&descAlignY=58&descSize=20&animation=twinkling" width="100%" alt="K Karthik Reddy Header Banner"/>
 
   <a href="https://kurmathikarthikreddy-portfolio.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=550&lines=B.Tech+CSE+Graduate+%F0%9F%8E%93;Looking+for+Opportunities+%F0%9F%9A%80" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=550&lines=B.Tech+CSE+Graduate+%F0%9F%8E%93;Looking+for+Opportunities+%F0%9F%9A%80" alt="Typing Animation"/>
   </a>
 
   <br/><br/>
 
   <p align="center">
     <a href="https://kurmathikarthikreddy-portfolio.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Portfolio-0D9488?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/Live_Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
     </a>
     &nbsp;
     <a href="https://linkedin.com" target="_blank">
@@ -25,7 +25,7 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=Kkarthik23540&label=PROFILE%20VIEWS&style=for-the-badge&color=0D9488" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Kkarthik23540&label=PROFILE%20VIEWS&style=for-the-badge&color=06B6D4" alt="Profile Views"/>
   </p>
 
 </div>
@@ -196,7 +196,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://kurmathikarthikreddy-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit_Portfolio-0D9488?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Visit_Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
